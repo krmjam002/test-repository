@@ -1,0 +1,7 @@
+# My awesome REST API
+```
+pip install flask
+```
+Aaaand done
+Implementation: Flask and is a REST API for a store
+
